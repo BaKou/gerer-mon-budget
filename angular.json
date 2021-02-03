@@ -60,11 +60,6 @@
                   "maximumError": "4kb"
                 }
               ]
-            },
-            "ci": {
-              "watch": false,
-              "progress": false,
-              "browsers": "ChromeHeadlessCI"
             }
           }
         },
