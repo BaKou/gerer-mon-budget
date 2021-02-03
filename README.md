@@ -1,4 +1,4 @@
-[![build status](https://github.com/BaKou/gerer-mon-budget-front/angular-github-actions/workflows/Build/badge.svg)](https://github.com/BaKou/gerer-mon-budget-front/angular-github-actions/actions)
+[![build status](https://github.com/BaKou/gerer-mon-budget-front/workflows/Build/badge.svg)](https://github.com/BaKou/gerer-mon-budget-front/actions)
 
 # GererMonBudgetFront
 
