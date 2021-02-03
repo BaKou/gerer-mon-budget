@@ -1,3 +1,5 @@
+[![build status](https://github.com/BaKou/gerer-mon-budget-front/angular-github-actions/workflows/Build/badge.svg)](https://github.com/BaKou/gerer-mon-budget-front/angular-github-actions/actions)
+
 # GererMonBudgetFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
